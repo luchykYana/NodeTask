@@ -1,0 +1,17 @@
+{
+  "name": "nodetask",
+  "version": "1.0.0",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "email-templates": "^8.0.8",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.5.1",
+    "helmet": "^4.6.0",
+    "joi": "^17.4.2",
+    "mongoose": "^6.0.13",
+    "nodemailer": "^6.7.1",
+    "pug": "^3.0.2"
+  }
+}
